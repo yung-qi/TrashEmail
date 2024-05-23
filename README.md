@@ -1,0 +1,2 @@
+# TrashEmail
+a python project
